@@ -1,0 +1,36 @@
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\Quan Ly Quan Net.exe.config
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\Quan Ly Quan Net.exe
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\Quan Ly Quan Net.pdb
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.AssemblyReference.cache
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.Form1.resources
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.FormThanhVien.resources
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.Properties.Resources.resources
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.GenerateResource.cache
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.exe
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.pdb
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\BUS_QuanLiQuanNet.dll
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\BUS_QuanLiQuanNet.pdb
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\DAL_QuanLyQuanNet.pdb
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.CopyComplete
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.FormKhach.resources
+C:\Users\lemin\source\repos\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.FormDangNhap.resources
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\Quan Ly Quan Net.exe.config
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\Quan Ly Quan Net.exe
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\Quan Ly Quan Net.pdb
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\BUS_QuanLiQuanNet.dll
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\BUS_QuanLiQuanNet.pdb
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\bin\Debug\DAL_QuanLyQuanNet.pdb
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.AssemblyReference.cache
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.Form1.resources
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.FormDangNhap.resources
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.FormKhach.resources
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.FormThanhVien.resources
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan_Ly_Quan_Net.Properties.Resources.resources
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.GenerateResource.cache
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.csproj.CopyComplete
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.exe
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\Quan Ly Quan Net\obj\Debug\Quan Ly Quan Net.pdb

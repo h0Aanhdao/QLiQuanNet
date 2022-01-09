@@ -1,0 +1,12 @@
+C:\Users\lemin\source\repos\Quan Ly Quan Net\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\lemin\source\repos\Quan Ly Quan Net\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.pdb
+C:\Users\lemin\source\repos\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\lemin\source\repos\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.pdb
+C:\Users\lemin\source\repos\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.csproj.AssemblyReference.cache
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.pdb
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.csproj.AssemblyReference.cache
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\n\Desktop\Quan Ly Quan Net\Quan Ly Quan Net\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.pdb
